@@ -10,6 +10,8 @@ Currently added:
 - rofi
 - hyprland
 - hyprpaper
+- hypridle
+- hyprlock
 
 ## Instructions
 Steps:
