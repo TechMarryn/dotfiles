@@ -38,6 +38,7 @@ alias nano='nvim'
 # Networking
 #alias myip='curl ifconfig.me'
 #alias pingg='ping google.com'
+alias ip='ip -color=auto'
 
 # Misc
 alias reload='source ~/.zshrc'
