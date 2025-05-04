@@ -1,0 +1,10 @@
+[user]
+       name = 
+       email = 
+       signingkey = 
+[core]
+       editor = ${EDITOR:-nvim}
+[commit]
+       gpgsign = true
+[tag]
+       gpgSign = true
