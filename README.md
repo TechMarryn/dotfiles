@@ -6,6 +6,10 @@ Currently added:
 - ghostty
 - zsh
 - git
+- btop
+- rofi
+- hyprland
+- hyprpaper
 
 ## Instructions
 Steps:
