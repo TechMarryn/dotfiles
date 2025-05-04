@@ -60,3 +60,10 @@ if [ -f ~/.config/zsh/aliases.zsh ]; then
 else
     print "Not sourcing aliases!"
 fi
+
+# Hyprland
+if [ -f ~/.config/zsh/hyprland.zsh ]; then
+    source ~/.config/zsh/hyprland.zsh
+else
+    print "Not sourcing hyprland!"
+fi
