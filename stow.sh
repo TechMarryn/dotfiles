@@ -1,2 +1,2 @@
 #!/usr/bin/env zsh
-stow --adopt -t ~ ghostty git zsh hypr
+stow --adopt -t ~ ghostty git zsh hypr ssh
