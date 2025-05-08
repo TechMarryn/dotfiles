@@ -3,15 +3,23 @@ TechMarryn's dot files
 
 ## Added
 Currently added:
-- ghostty
-- zsh
-- git
 - btop
-- rofi
+- dolphin
+- dunst
+- ghostty
+- git
 - hyprland
-- hyprpaper
-- hypridle
 - hyprlock
+- hypridle
+- hyprpaper
+- kde
+- keepassxc
+- kvantum
+- rofi
+- ssh
+- waybar
+- zen
+- zsh
 
 ## Instructions
 Steps:
